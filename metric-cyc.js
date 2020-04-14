@@ -48,11 +48,17 @@ function b(x) {
 }
 
 /* TODO: Need to check CYC for Loop While*/
-// TODO Need to check CYC for Switch Case 
+/** Todo: Need to check CYC for Mapping */
+// todo Need to check CYC for Switch Case 
 
 /* FIXME: Need to check CYC for Loop While*/
-// FIXME Need to check CYC for Switch Case 
+/** Fixme: Need to check CYC for Mapping */
+// fixme Need to check CYC for Switch Case 
 
 TODO
+Todo
+todo
 FIXME
+Fixme
+fixme
 //#endregion
