@@ -33,7 +33,7 @@ function a(x) {
     } else if (x = 2) {
         return 2;      // 2nd path
     } else {
-        return x;      // 3rd path
+        //return x;      // 3rd path
     }
 }
 
@@ -43,7 +43,7 @@ function a(x) {
  */
 function b(x) {
     if (x = 1) {
-        return 1;     
+        //return 1;     
     }
 }
 
@@ -52,10 +52,13 @@ function b(x) {
 /* FIXME: Need to check CYC for Loop While*/
 // fixme Need to check CYC for Switch Case 
 
-TODO something
-// Todo something
+//TODO something
+// Todo something updated
 todo something
-// FIXME something
+// FIXME something updated
 Fixme something
+// fixme something
+// fixme something
+// fixme something
 // fixme something
 //#endregion
